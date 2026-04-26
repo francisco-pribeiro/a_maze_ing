@@ -3,6 +3,18 @@
 A Python maze generator with hex wall encoding, BFS solver, and terminal
 visual renderer — 42 school project.
 
+## Demo
+
+**Maze Generation**
+
+https://github.com/francisco-pribeiro/a_maze_ing/blob/main/assets/maze_generation.mov
+
+**Path Reveal**
+
+https://github.com/francisco-pribeiro/a_maze_ing/blob/main/assets/path_reveal.mov
+
+---
+
 ## Description
 
 A-Maze-ing generates perfect or imperfect mazes of configurable dimensions
