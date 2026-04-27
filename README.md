@@ -7,11 +7,11 @@ visual renderer — 42 school project.
 
 **Maze Generation**
 
-https://github.com/francisco-pribeiro/a_maze_ing/blob/main/assets/maze_generation.mov
+![Maze Generation](assets/maze_generator.gif)
 
 **Path Reveal**
 
-https://github.com/francisco-pribeiro/a_maze_ing/blob/main/assets/path_reveal.mov
+![Path Animation](assets/path_animation.gif)
 
 ---
 
